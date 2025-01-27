@@ -3,17 +3,17 @@
 
 **[Проект 1: Сегментация пользователей](https://github.com/valeriiaso/YP-Data-Engineer-projects/tree/main/de-project-1)** <br />
 **Тема:** актуализация модели данных <br />
-**Задание:** создание витрины дпнных для RFM-классификации пользователей <br />
+**Задание:** создание витрины данных для RFM-классификации пользователей <br />
 **Инструменты:** PostgreSQL <br />
 
 **[Проект 2: Онлайн-магазин](https://github.com/valeriiaso/YP-Data-Engineer-projects/tree/main/de-project-2)** <br />
 **Тема:** DWH и пересмотр модели данных <br />
-**Задание:** пересмотр модели данных для оптиимзации нагрузки на хранилице данных <br />
+**Задание:** пересмотр модели данных для оптимизации нагрузки на хранилице данных <br />
 **Инструменты:** PostgreSQL <br />
 
 **[Проект 3: Онлайн-магазин](https://github.com/valeriiaso/YP-Data-Engineer-projects/tree/main/de-project-3)** <br />
 **Тема:** ETL и автоматизация подготовки данных <br />
-**Задание:** изменение существующешо пайплайна загрузки и обработки данных <br />
+**Задание:** изменение существующего пайплайна загрузки и обработки данных <br />
 **Инструменты:** Python, PostgreSQL, Airflow <br />
 
 **[Проект 5: Расчет с курьерами](https://github.com/valeriiaso/YP-Data-Engineer-projects/tree/main/de-project-5)** <br />
@@ -36,7 +36,7 @@
 **Задание:** реализация сервиса, который будет забирать данные из Kafka, обрабатывать их и направлять двум получателям - база данных PostgreSQL и новый топик Kafka <br />
 **Инструменты:** PySpark, PostreSQL, Kafka <br />
 
-**[Проект 9: Микро сервисы](https://github.com/valeriiaso/YP-Data-Engineer-projects/tree/main/de-project-9)** <br />
+**[Проект 9: Микросервисы](https://github.com/valeriiaso/YP-Data-Engineer-projects/tree/main/de-project-9)** <br />
 **Тема:** облачные технологии Yandex Cloud <br />
 **Задание:** разработка сервисов на базе Yandex Cloud, которые будут забирать данные из Kafka, обрабатывать их и распределять по разным слояв хранилища данных <br />
 **Инструменты:** Kafka, Python, kubernetes, Redis, PostgreSQL, Yandex Cloud <br />
